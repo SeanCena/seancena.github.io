@@ -7,10 +7,8 @@ import {
     Heading,
     Card,
     Link,
-    CardHeader,
     CardBody,
     CardFooter,
-    HStack,
     Button
 } from '@chakra-ui/react';
 

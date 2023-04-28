@@ -16,11 +16,8 @@ import {
   FaGithub,
   FaLinkedin,
   FaEnvelope,
-  FaReact,
-  FaPython
 } from 'react-icons/fa';
 import theme from './theme';
-import Quote from './Quote';
 import ProjectCard from './ProjectCard';
 import { ColorModeSwitcher } from './ColorModeSwitcher';
 
