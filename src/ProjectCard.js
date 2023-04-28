@@ -16,10 +16,6 @@ import { FaGithub } from 'react-icons/fa'
 
 
 
-function LinkGithub(url) {
-    //
-}
-
 function ProjectCard(props) {
     return (
         <Card>
