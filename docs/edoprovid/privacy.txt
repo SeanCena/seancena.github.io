@@ -1,0 +1,79 @@
+EDOProVid Privacy Policy
+
+Effective Date: February 22, 2024
+
+
+
+Thank you for using EDOProVid (referred to as "the Bot"). This Privacy Policy describes how the Bot collects, uses, and discloses information when you use the Bot.
+
+
+
+1. Information We Collect
+
+The Bot may collect and store certain information when you interact with it, including but not limited to:
+
+User ID and username: The Bot may collect and store Discord user IDs and usernames for identification purposes.
+
+Server activity: The Bot may collect information about your interactions within Discord servers where the Bot is installed, such as messages sent, commands used, and other activities related to the Bot's functionality.
+
+Usage data: The Bot may collect usage data, such as frequency of use, features accessed, and preferences selected.
+
+
+
+2. Use of Information
+
+The information collected by the Bot may be used for the following purposes:
+
+To provide and maintain the Bot's services.
+
+To improve and optimize the Bot's performance and user experience.
+
+To personalize user experience and deliver customized content.
+
+To respond to user inquiries and provide support.
+
+To detect, prevent, and address technical issues and misuse of the Bot.
+
+
+
+3. Data Sharing and Disclosure
+
+The Bot does not share personal information with third parties except as described in this Privacy Policy or with your consent. However, the Bot may disclose information in the following circumstances:
+
+With service providers: The Bot may share information with third-party service providers who assist in providing, maintaining, or improving the Bot's services.
+
+For legal purposes: The Bot may disclose information when required to do so by law or in response to valid legal requests.
+
+
+
+4. Data Retention
+
+The Bot will retain collected information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. Files submitted to the Bot via commands may be stored for at most 24 hours.
+
+
+
+5. Security
+
+The Bot takes reasonable measures to protect the information collected against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or method of electronic storage is 100% secure, and the Bot cannot guarantee absolute security.
+
+
+
+6. Children's Privacy
+
+The Bot is not intended for use by children under the age of 13. The Bot does not knowingly collect personal information from children under the age of 13. If you believe that a child under 13 has provided personal information to the Bot, please contact us immediately.
+
+
+
+7. Changes to Privacy Policy
+
+The Bot reserves the right to update or modify this Privacy Policy at any time without prior notice. Your continued use of the Bot after any such changes constitutes acceptance of the new Privacy Policy.
+
+
+
+8. Contact Us
+
+If you have any questions about these Terms of Service, please email the Owner at seansng1@gmail.com.
+
+
+
+By using the Bot, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.
