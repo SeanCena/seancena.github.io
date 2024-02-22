@@ -55,6 +55,7 @@ function App() {
                             users to easily share and watch their duels with others. Made with
                             Python and AWS.`}
               href="https://discord.com/api/oauth2/authorize?client_id=1145976977321377842&permissions=277025426432&scope=bot"
+              tryme="https://discord.com/api/oauth2/authorize?client_id=1145976977321377842&permissions=277025426432&scope=bot"
               github="https://github.com/SeanCena/edoprovid/tree/main"
             />
             <ProjectCard

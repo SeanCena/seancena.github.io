@@ -1,0 +1,73 @@
+EDOProVid Terms of Service
+
+Effective Date: February 22, 2024
+
+
+
+Thank you for using EDOProVid (referred to as "the Bot"). By using the Bot, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully before using the Bot.
+
+
+
+1. Acceptance of Terms
+
+By accessing or using the Bot in any manner, you agree to these Terms of Service and all other operating rules, policies, and procedures that may be published from time to time on the Bot's website by the bot owner (referred to as "the Owner").
+
+
+
+2. Description of Services
+
+The Bot is designed to convert replay files made using the Yu-Gi-Oh! simulator EDOPro into video files. The Owner reserves the right to modify, suspend, or discontinue the Bot, or any part thereof, at any time with or without notice.
+
+
+
+3. Use of the Bot
+
+You agree not to misuse the Bot, including but not limited to:
+
+Using the Bot for any unlawful purpose.
+
+Attempting to gain unauthorized access to the Bot's features or systems.
+
+Interfering with or disrupting the operation of the Bot or servers.
+
+Impersonating any person or entity or providing false information.
+
+
+
+4. Limitation of Liability
+
+The Owner shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to damages for lost profits, goodwill, use, data, or other intangible losses resulting from the use of or inability to use the Bot.
+
+
+
+5. Indemnification
+
+You agree to indemnify and hold harmless the Owner from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Bot, your violation of these Terms of Service, or your violation of any rights of another.
+
+
+
+6. Privacy Policy
+
+The Bot may collect and store certain information about users' interactions for the purpose of providing and improving the service. By using the Bot, you consent to the collection and use of this information in accordance with the Bot's Privacy Policy.
+
+
+
+7. Changes to Terms of Service
+
+The Owner reserves the right to update or modify these Terms of Service at any time without prior notice. Your continued use of the Bot after any such changes constitutes acceptance of the new Terms of Service.
+
+
+
+8. Governing Law
+
+These Terms of Service shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
+
+
+
+9. Contact Us
+
+If you have any questions about these Terms of Service, please email the Owner at seansng1@gmail.com.
+
+
+
+By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
