@@ -41,12 +41,19 @@ function App() {
               </Link>
             </HStack>
             <Text maxWidth="50%">
-              Computer Engineering student at Cal Poly SLO. Art, music, and
+              Computer engineering graduate from Cal Poly SLO. Art, music, and
               code.
             </Text>
           </VStack>
           <SimpleGrid minChildWidth="300px" spacing="20px" mt={8}>
             {/* Projects go here */}
+            <ProjectCard
+              img="assets/cratebash.png"
+              title="Cratebash"
+              description={`A DJ app for parties that analyzes everyone's Spotify accounts to
+                            understand their music tastes, then plays music that matches everybody's
+                            preferences. Made with Python and React. [WORK IN PROGRESS]`}
+            />
             <ProjectCard
               img="assets/edoprovid.png"
               title="EDOProVid"
@@ -59,32 +66,37 @@ function App() {
               github="https://github.com/SeanCena/edoprovid/tree/main"
             />
             <ProjectCard
-              img="assets/placeholder.jpeg"
-              title="Mashup"
-              description={`A DJ app for parties that analyzes everyone's Spotify accounts to
-                            understand their music tastes, then plays music that matches everybody's
-                            preferences. Made with Python and React. [WIP]`}
-              href=""
-              github=""
+              img="assets/openpath.png"
+              title="OpenPath"
+              description={`A web app built for SLOHacks 2023 that makes travel accessible to everyone
+                            regardless of gender identity. Displays LGBTQ-friendliness ratings of
+                            businesses (hotels/restaurants) and restrooms in a given area. Made
+                            with React.`}
+              href="https://devpost.com/software/open-path"
+              github="https://github.com/OpenPathApp/open-path"
             />
             <ProjectCard
-              title="Coming soon..."
-              description="A secret project in the works"
+              img="assets/carlmax.png"
+              title="Car Intelligence Marketplace"
+              description={`SBHacks 2021 grand prize winner. A web app that estimates the value of a
+                            used car from photos. Made with Python (Flask) and HTML.`}
+              href="https://devpost.com/software/carl-max"
+              github="https://github.com/SeanCena/Car-Intelligence-Marketplace/tree/main"
             />
             <ProjectCard
-              title="Coming soon..."
-              description="A secret project in the works"
-            />
-            <ProjectCard
-              title="Coming soon..."
-              description="A secret project in the works"
+              img="assets/polytripper.png"
+              title="PolyTripper"
+              description={`A web app built for SLOHacks Go 2019 that shows Cal Poly SLO students
+                            the optimal route to take between their classes. Made with Node.js.`}
+              href="https://devpost.com/software/polytripper"
+              github="https://github.com/SeanCena/PolyTripper"
             />
           </SimpleGrid>
           {/*
           <VStack mt={8}><Quote /></VStack>
           */}
           <VStack mt={8}>
-            <Code>Made with Chakra UI. 2023</Code>
+            <Code>Made with Chakra UI. 2024</Code>
           </VStack>
         </Grid>
       </Box>

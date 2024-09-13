@@ -18,7 +18,12 @@ import { FaGithub } from 'react-icons/fa';
 function ProjectCard(props) {
   return (
     <Card>
-      <Link href={props.href} _hover={{ color: 'purple.900' }}>
+      <Link
+        href={props.href}
+        _hover={{ color: 'purple.900' }}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <CardBody>
           <Stack>
             <Image
@@ -37,14 +42,14 @@ function ProjectCard(props) {
       <CardFooter align="left">
         <ButtonGroup spacing="2">
           {props.tryme === undefined ? undefined : (
-            <Link href={props.tryme}>
+            <Link href={props.tryme} target="_blank" rel="noopener noreferrer">
               <Button variant="solid" colorScheme="purple">
                 Try me!
               </Button>
             </Link>
           )}
           {props.github === undefined ? undefined : (
-            <Link href={props.github}>
+            <Link href={props.github} target="_blank" rel="noopener noreferrer">
               <Button leftIcon={<FaGithub />}>View Github repo</Button>
             </Link>
           )}
