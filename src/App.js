@@ -57,9 +57,9 @@ function App() {
             <ProjectCard
               img="assets/constellation.png"
               title="Constellation"
-              description={`A web app built for the Audius Amplify Hackathon that displays over 17000
-                            Audius artists on an interactive star chart. Wander around and get lost in
-                            music from all across the Audius community. Headphones recommended!
+              description={`Audius Amplify Hackathon curation track winner. Web app that displays over
+                            17000 Audius artists on an interactive star chart. Wander around and get
+                            lost in music from all across the Audius community. Headphones recommended!
                             Made with Python and React.`}
               href="https://seancena.github.io/constellation"
               tryme="https://seancena.github.io/constellation"
